@@ -1,4 +1,4 @@
-# Dy-Manim
+# Manim Math Visualization
 
 This repository contains a collection of code for creating interactive animations using [Manim](https://github.com/ManimCommunity/manim), a Python library designed to produce mathematical videos and other visualizations.
 
